@@ -6,8 +6,8 @@
   ],
   "comments": [
     { "id": 1, "body": "Dhamma shringa", "postId": "15th Aug-25 Aug", "Place":"Kathmandu" },
-    { "id": 2, "body": "Dhamma Tarai", "postId": "15th May-25 May", "Place":"Birgunj" },
-    { "id": 3, "body": "Dhamma Kriti, "postId": "15th Jan-25 Jan", "Place":"kritipur" }
+    { "id": 2, "body": "Dhamma Tarai", "postId": "15th May-25 May", "Place":"Birgunj" }
+ 
   ],
   "profile": {
     "name": "typicode"
